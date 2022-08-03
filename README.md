@@ -61,7 +61,7 @@ $ npm run server-dev
 
 <img src='/client/src/assets/photos/productoverview.png' width='725px'/>
 
-<details><summary><b>Main Image Slide & Mini Carousel</b></summary>
+<details open><summary><b>Main Image Slide & Mini Carousel</b></summary>
 
 <br/>
 
@@ -73,7 +73,7 @@ $ npm run server-dev
 
 </details>
 
-<details><summary><b>Style Selector</b></summary>
+<details open><summary><b>Style Selector</b></summary>
 
 <br/>
 
@@ -85,7 +85,7 @@ $ npm run server-dev
 
 </details>
 
-<details><summary><b>Add To Cart & Cart Modal</b></summary>
+<details open><summary><b>Add To Cart & Cart Modal</b></summary>
 
 <br/>
 
@@ -104,7 +104,7 @@ $ npm run server-dev
 
 </details>
 
-<details><summary><b>Expanded View & Share</b></summary>
+<details open><summary><b>Expanded View & Share</b></summary>
 
 <br/>
 
