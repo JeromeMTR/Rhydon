@@ -112,7 +112,7 @@ $ npm run server-dev
 
 >Allows users to share to social platforms
 
-![](https://imgur.com/IMLBT7m.gif)
+![sharedemo](https://imgur.com/IMLBT7m.gif)
 
 </details>
 
@@ -135,11 +135,11 @@ $ npm run server-dev
 
 ## Search Feature
 
-![](https://imgur.com/IEuEiL2.jpg)
+![searchdemo](https://imgur.com/IEuEiL2.jpg)
 
 ## Ratings & Reviews
 
-![](https://imgur.com/Xq4e2WE.jpg)
+![ratingsdemo](https://imgur.com/Xq4e2WE.jpg)
 
 
 
